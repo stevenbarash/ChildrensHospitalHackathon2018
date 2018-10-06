@@ -2,6 +2,15 @@
 	display: flex;
 	justify-content: center;
 	justify-items: center;
+	align-items: center;
+	align-content: center;
+	flex-direction: column;
+	margin: 20px;
+}
+
+.scan-button {
+	margin: 20px;
 }
 .qr-scanner {
+	padding: 20px;
 }
